@@ -1,0 +1,14 @@
+sort1 uses: Bubble sort
+
+How do you know?: while sorting random50000.txt and sorted50000,real time were 16.34seconds and 6.93seconds respectively.
+
+sort2 uses: Merge sort
+
+How do you know?: while sorting random50000.txt and sorted50000,real time were 4.17seconds and 4.24seconds respectively.
+
+sort3 uses: Selection sort
+
+How do you know?: while sorting random50000.txt and sorted50000,real time were 10.89seconds and 9.16seconds respectively.
+So according to time complexities  of all 3 sorting algorithms merge sort takes less time in sorting if elements are not sorted and also if elements are
+sorted as compared to other 2 algorithms. Bubble sort is better than selection sort in terms of time taken, though they have same timecomplexity
+when elements are not sorted but if sorted bubble sort has omega of n which is better than omega of n square of slection sort.
